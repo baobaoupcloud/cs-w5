@@ -22,7 +22,7 @@ Hãy tưởng tượng ba giá trị được lưu trữ tại ba vùng bộ nh�
 
 Để kết nối các giá trị này thành một danh sách, chúng ta có thể sử dụng thêm bộ nhớ để theo dõi vị trí của mục tiếp theo.
 
-![lists](https://raw.githubusercontent.com/baobaoupcloud/cs-w5/main/static/images/4.linkedlists/linkedlist2.png)
+![lists](https://raw.githubusercontent.com/baobaoupcloud/cs-w5/main/static/images/4.linkedlists/linkedlists2.png)
 
 
 `NULL` được sử dụng để chỉ ra rằng không còn gì khác trong danh sách.
