@@ -20,7 +20,7 @@ Imagine three values stored at three different areas of memory as follows:
 
 To stitch together these values in a list, we could utilize more memory to keep track of where the next item is.
 
-![lists](https://raw.githubusercontent.com/baobaoupcloud/cs-w5/main/static/images/4.linkedlists/linkedlist2.png)
+![lists](https://raw.githubusercontent.com/baobaoupcloud/cs-w5/main/static/images/4.linkedlists/linkedlists2.png)
 
 `NULL` is used to indicate that nothing else is next in the list. 
 
